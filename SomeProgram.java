@@ -4,6 +4,9 @@ public class SomeProgram {
     }
 }
 System.out.println("WewillbeGitexperts,soon.");
-public void manageTheRocet() { 
+public void manageTheRockets() { 
+	// TODO implement 
+}
+public void manageTheSatellite() { 
 	// TODO implement 
 }
